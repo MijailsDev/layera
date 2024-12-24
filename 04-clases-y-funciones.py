@@ -15,4 +15,9 @@ def suma(x, y):
 
     return z
 
-print(suma(3, 5))
+
+def volumen_esfera(radio):
+    volumen =  4*3.14159265*(radio^3)
+    return volumen
+
+print(volumen_esfera(2))
