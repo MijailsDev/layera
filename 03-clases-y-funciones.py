@@ -22,6 +22,6 @@ class Helado:
 heladito = Helado("Chocolate", "pequeno", "cono")
 helado1 = Helado("Fresa", "grande", "vasito")
 
-heladito.congelar()
-helado1.congelar()
+heladito.saborear()
+helado1.saborear()
 
