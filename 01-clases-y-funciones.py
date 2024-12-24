@@ -18,6 +18,8 @@ class Helado:
 
 
 heladito = Helado("Chocolate", "pequeno", "cono")
+helado1 = Helado("Fresa", "grande", "vasito")
 
 heladito.derretir()
+helado1.derretir()
 
