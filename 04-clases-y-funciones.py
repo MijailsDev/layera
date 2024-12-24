@@ -7,4 +7,12 @@ def operacion(a, b, c, d):
 
     return x
 
-print(operacion(1, 2, 8, 9))
+
+def suma(x, y):
+    
+    # Sumar parametros x e y 
+    z = x + y
+
+    return z
+
+print(suma(3, 5))
